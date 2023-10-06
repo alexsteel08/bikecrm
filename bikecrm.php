@@ -3,7 +3,7 @@
 Plugin Name: BikeCRM
 Description: Ваш опис плагіну тут.
 Version: 1.0
-Author: Ваше ім'я
+Author: AlexSteel
 */
 
 // Додайте код вашого плагіну тут
